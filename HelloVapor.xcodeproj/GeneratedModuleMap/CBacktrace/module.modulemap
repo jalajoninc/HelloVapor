@@ -1,0 +1,4 @@
+module CBacktrace {
+    umbrella "/Users/jalajonincgmail.com/Documents/Vapor/HelloVapor/.build/checkouts/swift-backtrace/Sources/CBacktrace/include"
+    export *
+}

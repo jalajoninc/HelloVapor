@@ -1,0 +1,4 @@
+module CURLParser {
+    umbrella "/Users/jalajonincgmail.com/Documents/Vapor/HelloVapor/.build/checkouts/vapor/Sources/CURLParser/include"
+    export *
+}
